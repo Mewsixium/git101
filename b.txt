@@ -1,1 +1,1 @@
-This is b.txt
+edit file b.txt in first line in branch feature2
