@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hi
 edit file b.txt in first line in branch feature2
+=======
+hello
+This is b.txt
+>>>>>>> feature2
